@@ -1,5 +1,5 @@
 [versions]
-android-gradle-plugin = "8.0.0"
+android-gradle-plugin = "8.0.2"
 lintMinCompose = "33.0.0"
 java = "17"
 kotlin = "1.8.20"
@@ -15,10 +15,14 @@ timber = "5.0.1"
 serializationjson="1.4.1"
 serialization = "1.3.3"
 kotlin-serialization = "1.8.20"
-coroutines = '1.6.4'
+coroutines = '1.7.1'
 datetime = "0.4.0"
 ksp = '1.8.20-1.0.10'
 compose = "1.4.0"
+napier = "2.6.1"
+multiplatform-settings = "1.0.0-alpha01"
+security-crypto-ktx = "1.1.0-alpha03"
+kstore = "0.5.0"
 
 [libraries]
 compiler = { module = "org.jetbrains.kotlin:kotlin-stdlib-jdk8", version.ref = "kotlin"}
@@ -42,6 +46,12 @@ coroutines-core = { module = "org.jetbrains.kotlinx:kotlinx-coroutines-core", ve
 coroutines-android = { module = "org.jetbrains.kotlinx:kotlinx-coroutines-android", version = "coroutines"}
 
 timber = { module = "com.jakewharton.timber:timber", version.ref = "timber"}
+napier = { module = "io.github.aakira:napier", version.ref = "napier" }
+
+# sharedStorage
+sharedStorage-crypto = { module = "androidx.security:security-crypto-ktx", version.ref = "security-crypto-ktx" }
+sharedStorage-multiplatform = { module = "com.russhwolf:multiplatform-settings", version.ref = "multiplatform-settings" }
+
 
 # koin
 koin-core = { module = "io.insert-koin:koin-core", version.ref = "koin"}
@@ -77,7 +87,6 @@ ktor = [
     "ktor-serialization-json",
 ]
 
-[plugins]
 [plugins]
 android-application = { id = "com.android.application", version.ref = "android-gradle-plugin" }
 android-library = { id = "com.android.library", version.ref = "android-gradle-plugin" }

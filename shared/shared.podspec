@@ -1,14 +1,14 @@
 Pod::Spec.new do |spec|
     spec.name                     = 'shared'
-    spec.version                  = '1.0'
-    spec.homepage                 = 'Link to the Shared Module homepage'
+    spec.version                  = '1.1.0'
+    spec.homepage                 = 'https://github.com/jacksonmafra-umain/mcquiz'
     spec.source                   = { :http=> ''}
-    spec.authors                  = ''
-    spec.license                  = ''
-    spec.summary                  = 'Some description for the Shared Module'
-    spec.vendored_frameworks      = 'build/cocoapods/framework/shared.framework'
+    spec.authors                  = 'leis'
+    spec.license                  = 'Unlicensed'
+    spec.summary                  = 'Some description for the shared.'
+                
     spec.libraries                = 'c++'
-    spec.ios.deployment_target = '14.1'
+    spec.ios.deployment_target = '15.0'
                 
                 
     spec.pod_target_xcconfig = {
@@ -35,5 +35,6 @@ Pod::Spec.new do |spec|
             SCRIPT
         }
     ]
-                
+    spec.vendored_frameworks = 'shared.xcframework'
+    spec.resources = ['src/commonMain/resources/**', 'src/iosMain/resources/**']
 end
