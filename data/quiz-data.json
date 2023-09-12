@@ -1,0 +1,194 @@
+{
+  "quiz": [
+    {
+      "question": "What is the approximate calorie content of a Big Mac, according to McDonald's nutritional information?",
+      "options": [
+        "a) 250 calories",
+        "b) 550 calories",
+        "c) 750 calories",
+        "d) 950 calories"
+      ],
+      "answer": "b) 550 calories"
+    },
+    {
+      "question": "How much saturated fat is in a McDonald's Cheeseburger?",
+      "options": [
+        "a) 2g",
+        "b) 5g",
+        "c) 8g",
+        "d) 12g"
+      ],
+      "answer": "b) 5g"
+    },
+    {
+      "question": "How many grams of protein are in a 6-piece Chicken McNugget?",
+      "options": [
+        "a) 5g",
+        "b) 10g",
+        "c) 15g",
+        "d) 20g"
+      ],
+      "answer": "b) 10g"
+    },
+    {
+      "question": "What is the sodium content in a medium-sized McDonald's French fries portion?",
+      "options": [
+        "a) 200mg",
+        "b) 400mg",
+        "c) 600mg",
+        "d) 800mg"
+      ],
+      "answer": "c) 600mg"
+    },
+    {
+      "question": "How many calories are in a 4-piece serving of McDonald's Fish Filet Nuggets?",
+      "options": [
+        "a) 150 calories",
+        "b) 250 calories",
+        "c) 350 calories",
+        "d) 450 calories"
+      ],
+      "answer": "b) 250 calories"
+    },
+    {
+      "question": "What is the amount of sugar in a small McDonald's Vanilla Milkshake?",
+      "options": [
+        "a) 10g",
+        "b) 20g",
+        "c) 30g",
+        "d) 40g"
+      ],
+      "answer": "c) 30g"
+    },
+    {
+      "question": "How much dietary fiber is in a McDonald's Caesar Salad (without dressing)?",
+      "options": [
+        "a) 1g",
+        "b) 3g",
+        "c) 5g",
+        "d) 7g"
+      ],
+      "answer": "b) 3g"
+    },
+    {
+      "question": "What is the approximate calorie content of a McChicken, according to McDonald's nutritional information?",
+      "options": [
+        "a) 300 calories",
+        "b) 450 calories",
+        "c) 600 calories",
+        "d) 750 calories"
+      ],
+      "answer": "a) 300 calories"
+    },
+    {
+      "question": "How many grams of carbohydrates are in a McDonald's Egg and Cheese McMuffin?",
+      "options": [
+        "a) 15g",
+        "b) 25g",
+        "c) 35g",
+        "d) 45g"
+      ],
+      "answer": "b) 25g"
+    },
+    {
+      "question": "What is the amount of protein in a McDonald's Double Cheeseburger?",
+      "options": [
+        "a) 10g",
+        "b) 20g",
+        "c) 30g",
+        "d) 40g"
+      ],
+      "answer": "b) 20g"
+    },
+    {
+      "question": "What is the approximate calorie content of a Quarter Pounder with Cheese, according to McDonald's nutritional information?",
+      "options": [
+        "a) 550 calories",
+        "b) 700 calories",
+        "c) 850 calories",
+        "d) 1000 calories"
+      ],
+      "answer": "a) 550 calories"
+    },
+    {
+      "question": "How many grams of sugar are in a McDonald's Caramel Sundae?",
+      "options": [
+        "a) 20g",
+        "b) 30g",
+        "c) 40g",
+        "d) 50g"
+      ],
+      "answer": "c) 40g"
+    },
+    {
+      "question": "What is the amount of fat in a McDonald's Happy Meal with Chicken Nuggets and Apple Slices?",
+      "options": [
+        "a) 5g",
+        "b) 10g",
+        "c) 15g",
+        "d) 20g"
+      ],
+      "answer": "b) 10g"
+    },
+    {
+      "question": "How many milligrams of sodium are in a McDonald's Oreo McFlurry?",
+      "options": [
+        "a) 100mg",
+        "b) 200mg",
+        "c) 300mg",
+        "d) 400mg"
+      ],
+      "answer": "d) 400mg"
+    },
+    {
+      "question": "What is the calorie count in a McDonald's Crispy Chicken Sandwich?",
+      "options": [
+        "a) 350 calories",
+        "b) 450 calories",
+        "c) 550 calories",
+        "d) 650 calories"
+      ],
+      "answer": "c) 550 calories"
+    },
+    {
+      "question": "How many grams of protein are in a McDonald's M&M's McFlurry?",
+      "options": [
+        "a) 5g",
+        "b) 10g",
+        "c) 15g",
+        "d) 20g"
+      ],
+      "answer": "a) 5g"
+    },
+    {
+      "question": "What is the amount of carbohydrates in a serving of McDonald's Apple Slices?",
+      "options": [
+        "a) 10g",
+        "b) 20g",
+        "c) 30g",
+        "d) 40g"
+      ],
+      "answer": "b) 20g"
+    },
+    {
+      "question": "How many milligrams of sodium are in a McDonald's Medium Coca-Cola?",
+      "options": [
+        "a) 20mg",
+        "b) 40mg",
+        "c) 60mg",
+        "d) 80mg"
+      ],
+      "answer": "d) 80mg"
+    },
+    {
+      "question": "What is the calorie content of a McDonald's Small French Vanilla Iced Coffee?",
+      "options": [
+        "a) 100 calories",
+        "b) 150 calories",
+        "c) 200 calories",
+        "d) 250 calories"
+      ],
+      "answer": "b) 150 calories"
+    }
+  ]
+}
